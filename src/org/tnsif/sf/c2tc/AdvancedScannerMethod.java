@@ -1,4 +1,4 @@
-package org.tnsif.sf.c2tc.ScannerClass_BufferDemo;
+package org.tnsif.sf.c2tc;
 
 import java.util.Scanner;
 
